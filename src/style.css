@@ -1,0 +1,14 @@
+.btns {
+    background: white;
+    font-size: 32px;
+}
+
+
+
+.btns:hover {
+    background: black;
+    color: rgb(255, 255, 255);
+    font-size: 32px;
+    transition: 200ms ease-in-out;
+}
+
