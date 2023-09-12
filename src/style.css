@@ -12,3 +12,8 @@
     transition: 200ms ease-in-out;
 }
 
+
+
+.mainDiv {
+    min-width: 200px;
+}

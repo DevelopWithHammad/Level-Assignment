@@ -34,7 +34,7 @@ function SelectionApp() {
 
     return (
         <>
-            <div style={{ display: "flex", justifyContent: "space-around", marginTop: "200px"}}>
+            <div className='mainDiv' style={{ display: "flex", justifyContent: "space-around", marginTop: "200px"}}>
 
 
                 {
